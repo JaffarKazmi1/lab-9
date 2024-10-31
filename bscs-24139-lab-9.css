@@ -1,0 +1,23 @@
+.first-div
+{
+    width: 500px;
+    height: 70px;
+    background-color: lightblue; 
+    border-width: 3px;
+    border-style: solid;
+    border-color: darkblue; 
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
+.normal-para
+{
+    color: green;
+}
+#fav-para
+{
+    color: purple;
+}
+body{
+    background-color: burlywood;
+}
